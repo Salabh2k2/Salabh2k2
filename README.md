@@ -38,4 +38,6 @@ I love C++
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Salabh2k2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/Salabh2k2"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Salabh2k2&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Salabh2k2/code_sharda" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salabh2k2&repo=code_sharda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Salabh2k2/leetcode_solution" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Salabh2k2&repo=leetcode_solution&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Dr_Philosopher}&theme={dark}" alt="LeetCode Badges"/>
+<p>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username={"Dr_Philosopher"} alt="LeetCode Badges"/>
+</p>
